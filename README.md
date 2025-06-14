@@ -53,6 +53,6 @@ Zinger/
 Feel free to fork this project, submit issues, or send pull requests. Any contributions are highly appreciated!
 
 ## 📬 Contact
-Author: Pratyush Kumar Das
-Email: daspratyush444@gmail.com
+- Author: Pratyush Kumar Das
+- Email: daspratyush444@gmail.com
 
