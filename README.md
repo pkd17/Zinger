@@ -49,10 +49,10 @@ Zinger/
 ```
 
 
-🤝 Contributing
+## 🤝 Contributing
 Feel free to fork this project, submit issues, or send pull requests. Any contributions are highly appreciated!
 
-📬 Contact
+## 📬 Contact
 Author: Pratyush Kumar Das
 Email: daspratyush444@gmail.com
 
